@@ -1,0 +1,73 @@
+html{
+    background-color: #E8F6EF;
+}
+
+.poster{
+    text-align: center;
+    color: #4C4C6D;
+}
+.education{
+    background-color: #FFE194;
+    padding: 5px;
+    border: 3px solid #4C4C6D;
+}
+
+.work-experience{
+    background-color: #1B9C85;
+    border: 3px solid #4C4C6D;
+    color: white;
+    padding: 5px;
+}
+
+.software-knowledge{
+    background-color: #FFE194;
+    border: 3px solid #4C4C6D;
+    color: #4C4C6D;
+    padding: 5px;
+}
+.skills{
+    background-color: #1B9C85;
+    border: 3px solid #4C4C6D;
+    color: white;
+    padding: 5px;
+}
+
+h1{
+text-align: center;
+font-size: 3rem;
+color: #4C4C6D;
+font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase
+}
+
+h2{
+    padding-top: 10px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+
+}
+
+h3{
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+p{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#dog{
+    border: 5px solid #1B9C85;
+    margin-top: 10px;
+    width: 50%;
+    height: 200px;
+    width: 200px;
+}
+footer{
+    text-align: center;
+}
